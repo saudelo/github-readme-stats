@@ -30,7 +30,11 @@
   </a>
 </p>
 
+
+
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">Forked from</a>
+   ·
   <a href="#all-demos">View Demo</a>
   ·
   <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a>
